@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Ehasan 👋  
+🚀 **Full-Stack Developer | Open-Source Contributor**  
+💡 Passionate about **Web Development**, **AI**, and **Open Source**  
 
-<!--
-**Ehasan07/Ehasan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 **Current Projects:**  
+- 🚀 Working on [Project Name](GitHub link)  
+- 📌 Contributing to [Open Source Project](GitHub link)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Ehasan07)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat)](your-portfolio-link)  
