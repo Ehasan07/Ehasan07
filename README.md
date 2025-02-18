@@ -1,30 +1,30 @@
-<!-- 🌟 Stylish Flying Animated Banner -->
+<!-- 🚀 Stylish Animated Flying Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=F7B93E&center=true&vCenter=true&width=1000&height=80&lines=🚀+Welcome+to+My+GitHub+Profile!;👨‍💻+Full+Stack+Developer+%7C+AI+Explorer;🎨+Creative+Designer+%7C+AI+Image+Generator" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=0DF7A5&center=true&vCenter=true&width=1000&height=80&lines=🚀+Welcome+to+Ehasan's+GitHub!;👨‍💻+Full+Stack+Developer+%7C+AI+Explorer;🎨+Creative+Designer+%7C+AI+Image+Generator" alt="Typing SVG">
 </div>
 
-<!-- 🚀 Profile GIF -->
+<!-- 🏆 Profile GIF Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
 ---
 
-## 🌟 **🚀 About Me**
+## **🌟 About Me**
 🎨 **Creative AI Enthusiast & Developer**  
 🖥️ **Expert in HTML | CSS | JavaScript | Python | AI Model Training**  
 ⚡ **Exploring AI Tools, ChatGPT Custom Training & Image Generation**  
 
 ---
 
-## 💡 **🛠️ Animated Tech Stack**
+## **🚀 Animated Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,github,git,figma,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,github,git,figma,vscode" />
 </p>
 
 ---
 
-## 🚀 **🔥 Featured Projects (With Animated Preview)**
+## **🔥 Featured Projects (With Animated Preview)**
 ### 🎨 **1. AI Image Generator**
 🖼️ **Description:** AI-powered tool to generate high-quality images using **Stable Diffusion & OpenAI**  
 📌 **Tech Stack:** Python, OpenAI API, AI Image Processing  
@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 **🔥 Animated GitHub Stats**
+## **📊 Super Animated GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ehasan07&show_icons=true&theme=gruvbox">
   <br>
@@ -62,7 +62,7 @@
 
 ---
 
-## 🎨 **🖌️ AI Art & Image Creations**
+## **🎨 AI Art & Image Creations**
 🎭 **I create unique AI-generated images using:**  
 ✔️ **Ideogram**  
 ✔️ **Freepik**  
@@ -74,7 +74,7 @@
 
 ---
 
-## 🔗 **🌍 Let's Connect (Animated Social Links)**
+## **🌍 Let's Connect (Animated Social Links)**
 <p align="center">
   <a href="https://twitter.com/your-twitter-handle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=shake">
