@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=600&lines=🌌+Ehasan's+Cosmic+Coding+World+🌌" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=500&color=FF00FF¢er=true&vCenter=true&width=600&lines=🌌+Ehasan's+Cosmic+Coding+World+🌌" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 ### 🌠 Who Am I?
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Coding+is+my+Art;Tech+is+my+Passion;Building+the+Future+One+Line+at+a+Time!" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=00FFFF¢er=true&vCenter=true&width=500&lines=Coding+is+my+Art;Tech+is+my+Passion;Building+the+Future+One+Line+at+a+Time!" alt="About Me Animation" />
 </p>
 
-- 🌍 **Exploring from:** [Your City/Country]
+- 🌍 **Exploring from:** Dhaka, Bangladesh
 - 💻 **Love to code in:** JavaScript, React, Python
-- 🌱 **Leveling up:** [e.g., Machine Learning, Web3]
-- 🎉 **Fun fact:** I dream in code and wake up to debug it!
-- 📧 **Ping me:** [Your Email/Twitter]
+- 🌱 **Leveling up:** Web Development, Animation Design
+- 🎉 **Fun fact:** I can code while listening to music all night!
+- 📧 **Ping me:** ehasan07@example.com | [Twitter](https://twitter.com/ehasan07)
 
 ---
 
@@ -46,10 +46,12 @@
 ---
 
 ### 🚀 Stellar Projects
-- **[Project Name 1](Link)**  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&color=FF5555&width=400&lines=A+project+that+rocks+the+world!" alt="Project 1 Animation" />
-- **[Project Name 2](Link)**  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&color=55FF55&width=400&lines=Innovation+at+its+best!" alt="Project 2 Animation" />
+- **[Portfolio Website](https://github.com/Ehasan07/portfolio)**  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&color=FF5555&width=400&lines=My+personal+space+to+showcase+skills!" alt="Project 1 Animation" />
+- **[To-Do App](https://github.com/Ehasan07/todo-app)**  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&color=55FF55&width=400&lines=A+simple+yet+powerful+task+manager!" alt="Project 2 Animation" />
+- **[Weather App](https://github.com/Ehasan07/weather-app)**  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&color=FFFF55&width=400&lines=Check+weather+with+style!" alt="Project 3 Animation" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tPghhb310QV0Dnq/giphy.gif" width="120" alt="Stars Animation">
@@ -59,7 +61,7 @@
 
 ### 🎨 Creative Corner
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=25&duration=5000&pause=500&color=FFFF00&center=true&vCenter=true&width=500&lines=Coding+is+my+Canvas;Creativity+is+my+Brush!" alt="Creative Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=25&duration=5000&pause=500&color=FFFF00¢er=true&vCenter=true&width=500&lines=Coding+is+my+Canvas;Creativity+is+my+Brush!" alt="Creative Animation" />
   <br>
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="Dance Animation">
 </p>
@@ -68,8 +70,8 @@
 
 ### 🌈 Let's Connect!
 <p align="center">
-  <a href="https://twitter.com/[YourTwitter]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/[YourLinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
+  <a href="https://twitter.com/ehasan07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/ehasan07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Ehasan07&color=FF00FF&style=flat-square" alt="Profile Views">
 </p>
