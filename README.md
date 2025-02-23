@@ -1,44 +1,44 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=500&color=FF00FF¢er=true&vCenter=true&width=600&lines=🌌+Ehasan's+Digital+Dreamscape+🌌;Where+Code+Meets+Creativity!;Unlocking+AI’s+Magic!" alt="Header Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=500&color=FF00FF¢er=true&vCenter=true&width=600&lines=🌌+Ehasan's+Tech+Odyssey+🌌;Code,+AI,+and+Beyond!;Mastering+the+Digital+Realm!" alt="Header Animation" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" width="180" alt="Digital Wave Animation" style="border-radius: 50%;">
+  <img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" width="180" alt="Digital Pulse Animation" style="border-radius: 50%;">
 </p>
 
 <p align="center">
-  <b>✨ Web Weaver | AI Enthusiast | Code Alchemist ✨</b>
+  <b>✨ Web Developer | AI Wizard | Code Maestro ✨</b>
 </p>
 
 ---
 
 ### 🌠 About Me
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00FFFF¢er=true&vCenter=true&width=500&lines=I+Code+with+Passion;I+Create+with+AI;I+Build+with+Love!" alt="About Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00FFFF¢er=true&vCenter=true&width=500&lines=Weaving+Web+Dreams;Training+AI+Magic;Coding+My+Universe!" alt="About Animation" />
 </p>
 
 - 🌍 **From:** Dhaka, Bangladesh
-- 💻 **Skills:** HTML, CSS, JavaScript, Python, C (basics)
-- 🌱 **Superpower:** AI Image Generation, Chatbot Training
-- 🎨 **Hobbies:** Experimenting with AI, Coding Fun Projects
+- 💻 **Skills:** HTML, CSS, JavaScript, Python, WordPress, GitHub
+- 🌱 **Superpowers:** AI Training, ChatGPT Power User
+- 🎨 **Hobbies:** Building Websites, Experimenting with AI
 - 📧 **Connect:** ehasan07@example.com | [Twitter](https://twitter.com/ehasan07)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKUSKMm5KffpYv6/giphy.gif" width="120" alt="AI Robot Animation">
+  <img src="https://media.giphy.com/media/3o7TKUSKMm5KffpYv6/giphy.gif" width="120" alt="Robot Animation">
 </p>
 
 ---
 
-### 🛸 My Tech Toolkit
+### 🛸 My Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,wordpress,github" alt="Tech Stack" />
   <br>
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="100" alt="Spark Animation">
+  <img src="https://media.giphy.com/media/kd9iTU9J8o0s/giphy.gif" width="100" alt="Glow Animation">
 </p>
 
 ---
 
-### 🌟 My Coding Galaxy
+### 🌟 My Coding Cosmos
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ehasan07&show_icons=true&theme=nebula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="420" />
   <br>
@@ -48,49 +48,49 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="Dance Animation">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="150" alt="Sparkle Animation">
 </p>
 
 ---
 
 ### 🚀 My Stellar Creations
-<h3 align="center">🌟 AI & Web Magic Unleashed 🌟</h3>
+<h3 align="center">🌟 Web & AI Masterpieces 🌟</h3>
 
-- **[AI Image Generator](https://github.com/Ehasan07/ai-image-gen)**  
-  *Live:* [ehasan-ai-images.vercel.app](https://ehasan-ai-images.vercel.app)  
-  *Tech:* Python, HTML, CSS, JavaScript  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&color=FF5555&width=450&lines=Generate+stunning+images+with+AI+power!" alt="AI Image Animation" />
+- **[WordPress Portfolio](https://github.com/Ehasan07/wordpress-portfolio)**  
+  *Live:* [ehasan-portfolio-wp.web.app](https://ehasan-portfolio-wp.web.app)  
+  *Tech:* WordPress, HTML, CSS  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&color=FF5555&width=450&lines=A+sleek+portfolio+built+with+WordPress!" alt="WP Animation" />
 
-- **[Chatbot Playground](https://github.com/Ehasan07/chatbot-playground)**  
+- **[AI-Powered Quiz App](https://github.com/Ehasan07/ai-quiz-app)**  
+  *Live:* [ehasan-quiz.vercel.app](https://ehasan-quiz.vercel.app)  
+  *Tech:* Python, JavaScript, HTML, CSS  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&color=55FF55&width=450&lines=Test+your+knowledge+with+AI+twist!" alt="Quiz Animation" />
+
+- **[ChatGPT Chatbot](https://github.com/Ehasan07/chatgpt-bot)**  
   *Live:* [ehasan-chatbot.netlify.app](https://ehasan-chatbot.netlify.app)  
-  *Tech:* JavaScript, HTML, CSS, Python  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&color=55FF55&width=450&lines=A+smart+chatbot+trained+for+fun+and+help!" alt="Chatbot Animation" />
-
-- **[Portfolio Site](https://github.com/Ehasan07/portfolio)**  
-  *Live:* [ehasan-portfolio.web.app](https://ehasan-portfolio.web.app)  
-  *Tech:* HTML, CSS, JavaScript  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&color=FFFF55&width=450&lines=My+digital+canvas+of+creativity!" alt="Portfolio Animation" />
+  *Tech:* JavaScript, Python, HTML, CSS  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&color=FFFF55&width=450&lines=A+smart+bot+trained+with+ChatGPT!" alt="Chatbot Animation" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nVkg/giphy.gif" width="150" alt="Rocket Launch Animation">
+  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nVkg/giphy.gif" width="150" alt="Rocket Animation">
 </p>
 
 ---
 
-### 📊 My Cosmic Stats
+### 📊 My Galactic Stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehasan07&theme=react-dark&bg_color=0D1117&color=FF00FF&line=00FFFF&point=FFFF00" alt="Activity Graph" width="600" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=20&duration=3000&color=FF00FF¢er=true&vCenter=true&width=400&lines=My+Code+Lights+Up+The+Universe!" alt="Stats Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=20&duration=3000&color=FF00FF¢er=true&vCenter=true&width=400&lines=Code+and+AI+Paint+My+Sky!" alt="Stats Animation" />
 </p>
 
 ---
 
-### 🎨 AI & Code Fusion
+### 🎨 Web & AI Fusion
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=28&duration=5000&pause=500&color=FFFF00¢er=true&vCenter=true&width=500&lines=AI+is+my+Wand;Code+is+my+Spell;Together+They+Shine!" alt="Creative Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=28&duration=5000&pause=500&color=FFFF00¢er=true&vCenter=true&width=500&lines=Web+is+my+Canvas;AI+is+my+Brush;ChatGPT+is+my+Voice!" alt="Fusion Animation" />
   <br>
-  <img src="https://media.giphy.com/media/26tPghhb310QV0Dnq/giphy.gif" width="180" alt="Stars Animation">
+  <img src="https://media.giphy.com/media/3o7aD2X8VzK6XxgWZy/giphy.gif" width="180" alt="Orbit Animation">
 </p>
 
 ---
@@ -104,9 +104,9 @@
 </p>
 
 <p align="center">
-  <b>Dive into my world! Let’s craft something extraordinary! 🚀</b>
+  <b>Step into my tech odyssey! Let’s build the future together! 🚀</b>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz2b3w95rWigCI/giphy.gif" width="200" alt="Flying Spaceship Animation">
+  <img src="https://media.giphy.com/media/3o7TKz2b3w95rWigCI/giphy.gif" width="200" alt="Spaceship Animation">
 </p>
