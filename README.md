@@ -15,3 +15,5 @@
 ## 🌌 **✨ About Me (With Neon Glow)**
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ehasan07&theme=radical" width="90%"> <br> <img src="https://github-readme-stats.vercel.app/api?username=Ehasan07&show_icons=true&theme=cobalt&hide_border=true&border_radius=20&bg_color=0D1117" width="45%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehasan07&layout=compact&theme=cobalt&bg_color=0D1117&border_radius=20" width="45%"> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehasan07&theme=github-compact&area=true&border_radius=20" width="90%"> </p>
+🖌️ Crafting art using: Ideogram | Freepik | ChatGPT
+<p align="center"> <img src="https://source.unsplash.com/random/600x300/?ai,art,technology" width="600" style="border-radius: 20px; box-shadow: 0px 0px 50px #FF61D6;"> </p>
