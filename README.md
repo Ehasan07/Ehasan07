@@ -1,112 +1,121 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=500&color=FF00FF¢er=true&vCenter=true&width=600&lines=🌌+Ehasan's+Tech+Odyssey+🌌;Code,+AI,+and+Beyond!;Mastering+the+Digital+Realm!" alt="Header Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Ehasan+Ali;Full+Stack+Developer;AI+Enthusiast;WordPress+Expert" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" width="180" alt="Digital Pulse Animation" style="border-radius: 50%;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
 </p>
 
 <p align="center">
-  <b>✨ Web Developer | AI Wizard | Code Maestro ✨</b>
-</p>
-
----
-
-### 🌠 About Me
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00FFFF¢er=true&vCenter=true&width=500&lines=Weaving+Web+Dreams;Training+AI+Magic;Coding+My+Universe!" alt="About Animation" />
-</p>
-
-- 🌍 **From:** Dhaka, Bangladesh
-- 💻 **Skills:** HTML, CSS, JavaScript, Python, WordPress, GitHub
-- 🌱 **Superpowers:** AI Training, ChatGPT Power User
-- 🎨 **Hobbies:** Building Websites, Experimenting with AI
-- 📧 **Connect:** ehasan07@example.com | [Twitter](https://twitter.com/ehasan07)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKUSKMm5KffpYv6/giphy.gif" width="120" alt="Robot Animation">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Transforming+Ideas+Into+Digital+Reality;With+Code+And+Creativity" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-### 🛸 My Tech Arsenal
+### 🚀 About Me
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,wordpress,github" alt="Tech Stack" />
-  <br>
-  <img src="https://media.giphy.com/media/kd9iTU9J8o0s/giphy.gif" width="100" alt="Glow Animation">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" align="right" alt="Developer Animation">
+</p>
+
+- 🔭 I'm currently working on **AI-powered web applications**
+- 🌱 Learning **Advanced JavaScript and Machine Learning**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **WordPress, JavaScript, or AI**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,wordpress,git,github,vscode&perline=5" alt="Tech Icons" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" alt="Tech Animation">
 </p>
 
 ---
 
-### 🌟 My Coding Cosmos
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ehasan07&show_icons=true&theme=nebula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="420" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehasan07&theme=nebula&hide_border=true&background=0D1117" alt="Streak Stats" width="420" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Ehasan07&theme=dracula&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ehasan07&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehasan07&theme=radical&hide_border=true" alt="Streak Stats" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="150" alt="Sparkle Animation">
-</p>
-
----
-
-### 🚀 My Stellar Creations
-<h3 align="center">🌟 Web & AI Masterpieces 🌟</h3>
-
-- **[WordPress Portfolio](https://github.com/Ehasan07/wordpress-portfolio)**  
-  *Live:* [ehasan-portfolio-wp.web.app](https://ehasan-portfolio-wp.web.app)  
-  *Tech:* WordPress, HTML, CSS  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&color=FF5555&width=450&lines=A+sleek+portfolio+built+with+WordPress!" alt="WP Animation" />
-
-- **[AI-Powered Quiz App](https://github.com/Ehasan07/ai-quiz-app)**  
-  *Live:* [ehasan-quiz.vercel.app](https://ehasan-quiz.vercel.app)  
-  *Tech:* Python, JavaScript, HTML, CSS  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&color=55FF55&width=450&lines=Test+your+knowledge+with+AI+twist!" alt="Quiz Animation" />
-
-- **[ChatGPT Chatbot](https://github.com/Ehasan07/chatgpt-bot)**  
-  *Live:* [ehasan-chatbot.netlify.app](https://ehasan-chatbot.netlify.app)  
-  *Tech:* JavaScript, Python, HTML, CSS  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&color=FFFF55&width=450&lines=A+smart+bot+trained+with+ChatGPT!" alt="Chatbot Animation" />
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nVkg/giphy.gif" width="150" alt="Rocket Animation">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehasan07&theme=react-dark&bg_color=000000&color=00FF00&line=00FFFF&point=FFFFFF" alt="Activity Graph" width="800" />
 </p>
 
 ---
 
-### 📊 My Galactic Stats
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehasan07&theme=react-dark&bg_color=0D1117&color=FF00FF&line=00FFFF&point=FFFF00" alt="Activity Graph" width="600" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=20&duration=3000&color=FF00FF¢er=true&vCenter=true&width=400&lines=Code+and+AI+Paint+My+Sky!" alt="Stats Animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ehasan07&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 🎨 Web & AI Fusion
+### 🔥 Top Languages
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=28&duration=5000&pause=500&color=FFFF00¢er=true&vCenter=true&width=500&lines=Web+is+my+Canvas;AI+is+my+Brush;ChatGPT+is+my+Voice!" alt="Fusion Animation" />
-  <br>
-  <img src="https://media.giphy.com/media/3o7aD2X8VzK6XxgWZy/giphy.gif" width="180" alt="Orbit Animation">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehasan07&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" alt="Code Animation">
 </p>
 
 ---
 
-### 🌈 Connect With Me
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">AI Content Generator</h3>
+      <div align="center">
+        <a href="https://github.com/Ehasan07/AI-Content-Generator">
+          <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300" alt="Project GIF">
+        </a>
+        <p><strong>Tech:</strong> Python, Flask, OpenAI API</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">WordPress Portfolio</h3>
+      <div align="center">
+        <a href="https://github.com/Ehasan07/WordPress-Portfolio">
+          <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Project GIF">
+        </a>
+        <p><strong>Tech:</strong> WordPress, PHP, JavaScript</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Connect With Me
+
 <p align="center">
-  <a href="https://twitter.com/ehasan07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/ehasan07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Ehasan07&color=FF00FF&style=flat-square" alt="Profile Views">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
-  <b>Step into my tech odyssey! Let’s build the future together! 🚀</b>
+  <img src="https://komarev.com/ghpvc/?username=Ehasan07&label=Profile+Views&color=00FF00&style=flat" alt="Profile Views">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz2b3w95rWigCI/giphy.gif" width="200" alt="Spaceship Animation">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Thank You Animation">
 </p>
