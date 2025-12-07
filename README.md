@@ -17,29 +17,19 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="center" />
-  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
   <br/><br/>
-  
   <h3>👨‍💻 About Me</h3>
   <p>
     I am <b>Shiplu</b>, a passionate developer from <b>Dhaka, Bangladesh 🇧🇩</b>.<br>
-    I love turning complex code into smooth, beautiful user interfaces.
-  </p>
-
-  <p>
     🔭 <b>Currently Working:</b> Junior Executive @ <b>Dupno Limited</b><br>
     🌱 <b>Learning:</b> Advanced System Architecture & AI Agents<br>
-    🔨 <b>Building:</b> <a href="#"><b>MY-Card™</b></a> (Digital Identity Solution)<br>
     ⚡ <b>Fun Fact:</b> I code at night and deploy at sunrise ☀️
   </p>
 </div>
@@ -48,19 +38,11 @@
 
 <div align="center">
   <h3>🚀 My Tech Stack</h3>
-  
-  <p><b>Frontend & Design</b></p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css,figma&perline=8&theme=dark" />
-  
   <br/><br/>
-  
-  <p><b>Backend & Database</b></p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma,graphql&perline=8&theme=dark" />
-  
   <br/><br/>
-  
-  <p><b>Tools & Languages</b></p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,git,github,vscode,linux,postman,vercel&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,git,github,vscode,linux,postman&perline=9&theme=dark" />
 </div>
 
 <br/><br/>
@@ -68,9 +50,13 @@
 <div align="center">
   <h3>📊 Coding Analytics</h3>
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ehasan07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00EEFF&icon_color=F8D866&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/Ehasan07">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ehasan07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00EEFF&icon_color=F8D866&text_color=FFFFFF" />
+  </a>
   
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ehasan07&theme=radical&hide_border=true&background=0D1117&stroke=00EEFF&ring=F8D866&fire=FF0055&currStreakLabel=00EEFF" />
+  <a href="https://github.com/Ehasan07">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ehasan07&theme=radical&hide_border=true&background=0D1117&stroke=00EEFF&ring=F8D866&fire=FF0055&currStreakLabel=00EEFF" />
+  </a>
 
   <br/><br/>
 
@@ -81,10 +67,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%"/>
-  
   <p>
     <img src="https://komarev.com/ghpvc/?username=Ehasan07&label=Profile%20Views&color=00EEFF&style=for-the-badge" alt="Profile Views" />
   </p>
-  
-  <i>Let's build something amazing together.</i>
 </div>
