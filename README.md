@@ -31,3 +31,63 @@ Building:       MY-Card™ → https://mycard.dupno.com
 Location:       Dhaka, Bangladesh
 Age:            20 (Born 27 May 2005)
 Passion:        Web Animations • Fluid UI • AI × Web • Digital Art
+
+
+My Superpowers → Skills with Progress
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SkillLevelProgress BarReact / Next.jsExpert████████████████████ 95%UI Animation (GSAP, Framer)Master████████████████████ 98%Tailwind CSSExpert███████████████████ 93%Node.js + ExpressAdvanced██████████████████ 88%Python (Flask/FastAPI)Advanced█████████████████ 85%Three.js / WebGLAdvanced████████████████ 80%Figma → Production CodePro███████████████████ 92%AI Integration (TensorFlow)Growing██████████████ 72%Creative Problem SolvingGod Level████████████████████ 99%
