@@ -103,20 +103,22 @@
 
 <br/>
 
-<h3 align="center">📈 Contribution Analysis</h3>
+<h3 align="center">⚡ Coding Activity & Aesthetics</h3>
+
 <div align="center">
-  <a href="https://github.com/Ehasan07">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ehasan07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00EEFF&icon_color=F8D866&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/Ehasan07">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ehasan07&theme=radical&hide_border=true&background=0D1117&stroke=00EEFF&ring=F8D866&fire=FF0055&currStreakLabel=00EEFF" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehasan07&theme=react-dark&bg_color=0D1117&color=00EEFF&line=00EEFF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehasan07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00EEFF&text_color=FFFFFF&langs_count=8" height="140" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Ehasan07&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" />
 </div>
 
 <br/>
