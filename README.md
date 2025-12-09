@@ -103,22 +103,21 @@
 
 <br/>
 
-<h3 align="center">⚡ Coding Activity & Aesthetics</h3>
+<h3 align="center">📊 Developer Dashboard</h3>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ehasan07&theme=radical&utcOffset=6" />
+  
+  <br>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ehasan07&theme=radical" />
+</div>
+
+<br/>
+
+<h3 align="center">📈 Coding Frequency</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehasan07&theme=react-dark&bg_color=0D1117&color=00EEFF&line=00EEFF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ehasan07&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" />
 </div>
 
 <br/>
