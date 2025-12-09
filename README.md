@@ -46,7 +46,6 @@
         <b>🛠️ Core Tech:</b> React, Node.js, MongoDB, Tailwind CSS
         <br><br>
         <a href="https://mycard.dupno.com/">
-          <img src="https://img.shields.io/badge/Live_Server-mycard.dupno.com-success?style=flat-square&logo=google-chrome&logoColor=white" />
         </a>
         <a href="https://github.com/Ehasan07/E-card">
           <img src="https://img.shields.io/badge/Source_Code-Repository-black?style=flat-square&logo=github" />
