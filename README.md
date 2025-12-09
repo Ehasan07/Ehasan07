@@ -34,21 +34,23 @@
   <table border="0" width="100%">
     <tr>
       <td width="30%" align="center">
-         <img src="https://raw.githubusercontent.com/Ehasan07/E-card/main/Favicon.png" width="130" alt="MY-Card Logo" />
+         <a href="https://mycard.dupno.com/" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="110" alt="Visit Website" title="Click to Visit Website"/>
+         </a>
          <br><br>
-         <h3 style="color: #00EEFF;">MY-Card™</h3>
+         <a href="https://mycard.dupno.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Visit_Website-Click_Here-success?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+         </a>
       </td>
       <td width="70%">
-        <b>🚀 The Future of Digital Identity</b>
+        <b>🚀 MY-Card™ (Digital Identity)</b>
         <br><br>
         A comprehensive Fullstack SaaS platform that revolutionizes how professionals connect. Features include dynamic profiles, QR sharing, and real-time analytics.
         <br><br>
         <b>🛠️ Core Tech:</b> React, Node.js, MongoDB, Tailwind CSS
         <br><br>
-        <a href="https://mycard.dupno.com/">
-        </a>
         <a href="https://github.com/Ehasan07/E-card">
-          <img src="https://img.shields.io/badge/Source_Code-Repository-black?style=flat-square&logo=github" />
+          <img src="https://img.shields.io/badge/Source_Code-View_Repo-black?style=flat-square&logo=github" />
         </a>
       </td>
     </tr>
