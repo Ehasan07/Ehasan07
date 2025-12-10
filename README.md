@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://mycard.dupno.com/card/shiplu07/">
-    <img src="https://img.shields.io/badge/MY_Card%E2%84%A2-Visit_Profile-00EEFF?style=for-the-badge&logo=firefox&logoColor=aqua&labelColor=white" />
+    <img src="https://img.shields.io/badge/MY_Card%E2%84%A2-Visit_Profile-00EEFF?style=for-the-badge&logo=firefox&logoColor=Purple&labelColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,7 +35,7 @@
     <tr>
       <td width="30%" align="center">
          <a href="https://mycard.dupno.com/" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="110" alt="Visit Website" title="Click to Visit Website"/>
+            <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" color="aqua" width="110" alt="Visit Website" title="Click to Visit Website"/>
          </a>
          <br><br>
          <a href="https://mycard.dupno.com/" target="_blank">
