@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://mycard.dupno.com/card/shiplu07/">
-    <img src="https://img.shields.io/badge/MY_Card%E2%84%A2-Visit_Profile-00EEFF?style=for-the-badge&logo=firefox&logoColor=black&labelColor=white" />
+    <img src="https://img.shields.io/badge/MY_Card%E2%84%A2-Visit_Profile-00EEFF?style=for-the-badge&logo=firefox&logoColor=aqua&labelColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
