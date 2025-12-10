@@ -21,7 +21,7 @@
   <br/><br/>
   
   <p align="center" style="max-width: 600px;">
-    👋 <b>Hi, I'm Shiplu.</b> A passionate software engineer from <b>Dhaka, Bangladesh 🇧🇩</b>.<br>
+    👋 <b>Hi, I'm Ehasanul.</b> A passionate software engineer from <b>Dhaka, Bangladesh 🇧🇩</b>.<br>
     I specialize in building <b>production-grade applications</b> and <b>fluid interactive interfaces</b>.<br>
     Currently, I am shaping the future of digital identity at <b>Dupno Limited</b>.
   </p>
