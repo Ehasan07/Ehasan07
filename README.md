@@ -3,164 +3,181 @@
     Renders at https://github.com/Ehasan07
 -->
 
-<div align="center">
+<p align="center">
+  <img src="assets/hero.png" alt="S M Ehasanul Haque — Bangla-first business software" width="100%">
+</p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ehasanul%20Haque&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20architect%20%C2%B7%20Frontend%20craftsman&descSize=17&descAlignY=62" width="100%" />
+<p align="center">
+  <a href="https://ehasanlive.com"><img src="https://img.shields.io/badge/Portfolio-ehasanlive.com-0B7A6F?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://mycard.dupno.com/card/shiplu07/"><img src="https://img.shields.io/badge/Digital%20card-MY--Card-C8A24A?style=for-the-badge" alt="Digital card"></a>
+  <a href="https://dupno.com"><img src="https://img.shields.io/badge/Building%20at-DUPNO-10201E?style=for-the-badge" alt="DUPNO"></a>
+</p>
 
-  <p>
-    <a href="https://mycard.dupno.com/card/shiplu07/">
-      <img src="https://img.shields.io/badge/MY--Card-Digital%20profile-00A867?style=for-the-badge&logo=readthedocs&logoColor=white" />
-    </a>
-    <a href="https://dupno.com">
-      <img src="https://img.shields.io/badge/DUPNO-Building%20software-0D1117?style=for-the-badge" />
-    </a>
-    <a href="https://github.com/Ehasan07?tab=repositories">
-      <img src="https://img.shields.io/badge/Repos-24%2B-2E7D32?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
+## Hi, I'm Ehasan
 
-  <p><b>Dhaka, Bangladesh</b> · 🇧🇩</p>
+I'm a full-stack developer at **DUPNO** in Dhaka. Most of what I build is software for Bangladeshi businesses and families: a Hajj agency's whole office, a building-materials trader's books, a household's money, a digital business card.
 
-</div>
+A few rules I hold to in every project:
 
-<br/>
+- **Bangla first**, English one tap away.
+- **Money is counted in paisa**, never in floating point — totals match to the last taka.
+- **Each customer's data is walled off in the database itself**, not only in the code.
+- **It ships**: tested, deployed on a real server, with backups.
 
-## 👋 About
+<br>
 
-I'm **Ehasanul** — a full-stack engineer at **DUPNO**. I ship secure Django backends, wire them into fast Postgres schemas, and dress them in interactive React/Vanilla UIs. Most days you'll find me on a Bangladeshi digital-identity SaaS, then reviewing a payment integration, then debugging a nginx config on Hetzner. Rinse and repeat.
-
-I care about three things in code: **it works**, **it reads clearly six months later**, **and it doesn't leak secrets**.
-
-<br/>
-
-## 🚀 Currently shipping
+## Live products
 
 <table>
   <tr>
-    <td width="120" align="center" valign="top">
-      <a href="https://mycard.dupno.com/">
-        <img src="https://img.shields.io/badge/LIVE-mycard.dupno.com-00A867?style=for-the-badge&logoColor=white" width="200"/>
-      </a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ehasan07/hajj-tracking-software"><img src="assets/hajj-tracking-software.png" alt="Hajj Tracking"></a>
+      <br><b>Hajj Tracking</b> — SaaS for Hajj &amp; Umrah agencies: pilgrims, QR-verified receipts, statements, payroll, hotels and four side shops.
+      <br><a href="https://hajj.takatracker.com">Live</a> · <a href="https://github.com/Ehasan07/hajj-tracking-software">Code</a> · <sub>Next.js · tRPC · PostgreSQL</sub>
     </td>
-    <td valign="top">
-      <b>MY-Card</b> — Bangladesh's digital business-card platform.<br/>
-      Live builder with real-time preview · QR + Apple/Google Wallet passes · SSLCommerz payments (bKash, Nagad, Rocket, Visa) · 90-day analytics · full Bangla + English UI · admin-managed offers engine · daily lifecycle emails.<br/><br/>
-      <sub><b>Stack:</b> Django 5.2 · Python 3.12 · PostgreSQL 16 · Nginx · Gunicorn · Let's Encrypt · Hetzner Cloud</sub>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ehasan07/takatracker"><img src="assets/takatracker.png" alt="Taka Tracker"></a>
+      <br><b>Taka Tracker</b> — offline-first, double-entry personal accounting for Bangladesh, in Bangla and English.
+      <br><a href="https://takatracker.com">Live</a> · <a href="https://github.com/Ehasan07/takatracker">Code</a> · <sub>Next.js · NestJS · Prisma</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://mycard.dupno.com"><img src="assets/mycard.png" alt="MY-Card"></a>
+      <br><b>MY-Card</b> — digital business cards: live builder, QR and wallet passes, bKash and SSLCommerz payments, analytics.
+      <br><a href="https://mycard.dupno.com">Live</a> · <sub>Django · PostgreSQL · source private</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/erp.png" alt="Trading ERP">
+      <br><b>Trading ERP</b> — accounting and inventory for a construction-material trader: landed cost, dues, one double-entry ledger.
+      <br><sub>Next.js · Prisma · PostgreSQL · private client work</sub>
     </td>
   </tr>
 </table>
 
-<br/>
+<br>
 
-## 🧰 Tech I actually use
+## Client work for DUPNO
 
-<div align="center">
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Ehasan07/dupno-payment"><img src="assets/dupno-payment.png" alt="DUPNO Payment Portal"></a>
+      <br><b>Payment Portal</b><br><sub>Checkout page for DUPNO services</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Ehasan07/Dupno-fuel-monitor"><img src="assets/Dupno-fuel-monitor.png" alt="DUPNO Fuel Monitor"></a>
+      <br><b>Fuel Monitor</b><br><sub>Landing page for vehicle fuel monitoring</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Ehasan07/Dupno-table-filter"><img src="assets/Dupno-table-filter.png" alt="Service Comparison"></a>
+      <br><b>Service Comparison</b><br><sub>Bangla package table, filtered by vehicle</sub>
+    </td>
+  </tr>
+</table>
 
-**Backend**
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-25A162?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+## Web apps, games and experiments
 
-**Frontend**
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Ehasan07/Protfolio"><img src="assets/Protfolio.png" alt="ehasanlive.com"></a>
+      <br><b>ehasanlive.com</b><br><sub>Bilingual portfolio · React, Tailwind, Framer Motion</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Ehasan07/V-card"><img src="assets/V-card.png" alt="Digital E-Card"></a>
+      <br><b>Digital E-Card</b><br><sub>Live card builder with QR and .vcf</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Ehasan07/React-World-Tour"><img src="assets/React-World-Tour.png" alt="React World Tour"></a>
+      <br><b>React World Tour</b><br><sub>Every country from a REST API</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Ehasan07/Alphabate-game"><img src="assets/Alphabate-game.png" alt="Alpha Clash Pro"></a>
+      <br><b>Alpha Clash Pro</b><br><sub>Keyboard typing game</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Ehasan07/tic-tac-toe-game"><img src="assets/tic-tac-toe-game.png" alt="Tic-Tac-Toe"></a>
+      <br><b>Tic-Tac-Toe</b><br><sub>Two players, vanilla JavaScript</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Ehasan07/Book-management-project"><img src="assets/Book-management-project.png" alt="Book Manager"></a>
+      <br><b>Book Manager</b><br><sub>Python command-line app</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Ehasan07/Mouse-hover"><img src="assets/Mouse-hover.png" alt="Fluid Smoke Pro"></a>
+      <br><b>Fluid Smoke Pro</b><br><sub>Canvas animation</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Ehasan07/hexagonal-grid-interaction"><img src="assets/hexagonal-grid-interaction.png" alt="Hexagon Grid"></a>
+      <br><b>Hexagon Grid</b><br><sub>Honeycomb hover effect</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Ehasan07/fluid-hover"><img src="assets/fluid-hover.png" alt="Fluid Hover"></a>
+      <br><b>Fluid Hover</b> · <a href="https://github.com/Ehasan07/interesting-cursor-hover">Cursor Trails</a><br><sub>More canvas experiments</sub>
+    </td>
+  </tr>
+</table>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<br>
 
-**Ops · deploy · payments**
+## How I got here
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Hetzner](https://img.shields.io/badge/Hetzner%20Cloud-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![SSLCommerz](https://img.shields.io/badge/SSLCommerz-E2136E?style=flat-square)
-![bKash](https://img.shields.io/badge/bKash-E2136E?style=flat-square)
+| When | What I was building |
+|---|---|
+| **Jan 2024** | [First repository](https://github.com/Ehasan07/my-frist-github-repo), [first portfolio](https://github.com/Ehasan07/web-developer-portfolio), and assignment 1: a [Figma design in HTML](https://github.com/Ehasan07/My-frist-assignment) |
+| **Jan – May 2024** | Assignments 2–6: [AMA Travel](https://github.com/Ehasan07/2nd-assignment-), [Hockey Club](https://github.com/Ehasan07/3rd-assignment), [JS problem solving](https://github.com/Ehasan07/4th-assignment), [P-Paribahan tickets](https://github.com/Ehasan07/5th-assignment), [Retro Forum](https://github.com/Ehasan07/6th-assignment) |
+| **2024** | First games and React: [Alpha Clash Pro](https://github.com/Ehasan07/Alphabate-game), [Tic-Tac-Toe](https://github.com/Ehasan07/tic-tac-toe-game), [React World Tour](https://github.com/Ehasan07/React-World-Tour) · first client pages for DUPNO |
+| **2025** | Python, canvas experiments, the [Digital E-Card](https://github.com/Ehasan07/V-card), then **MY-Card**, a Django SaaS with payments |
+| **2026** | [ehasanlive.com](https://ehasanlive.com) rebuilt, **Taka Tracker**, a trading ERP, and **Hajj Tracking** — full SaaS products in TypeScript, live on my own servers |
 
-</div>
+<br>
 
-<br/>
+## Tools I use
 
-## 📊 GitHub at a glance
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" alt="tRPC">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" alt="Hetzner">
+  <img src="https://img.shields.io/badge/bKash-E2136E?style=flat-square" alt="bKash">
+  <img src="https://img.shields.io/badge/SSLCommerz-1B4F8F?style=flat-square" alt="SSLCommerz">
+</p>
 
-<div align="center">
+<br>
 
-  <a href="https://github.com/Ehasan07">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ehasan07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=00A867&icon_color=00A867&hide=contribs" />
-  </a>
-  <a href="https://github.com/Ehasan07">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehasan07&layout=compact&hide_border=true&theme=github_dark&title_color=00A867&langs_count=8" />
-  </a>
+## Get in touch
 
-  <br/>
+<p>
+  <a href="https://ehasanlive.com"><img src="https://img.shields.io/badge/Website-ehasanlive.com-0B7A6F?style=for-the-badge" alt="Website"></a>
+  <a href="https://mycard.dupno.com/card/shiplu07/"><img src="https://img.shields.io/badge/Card-mycard.dupno.com-C8A24A?style=for-the-badge" alt="Digital card"></a>
+  <a href="https://dupno.com"><img src="https://img.shields.io/badge/Company-DUPNO-10201E?style=for-the-badge" alt="DUPNO"></a>
+</p>
 
-  <a href="https://github.com/Ehasan07">
-    <img src="https://streak-stats.demolab.com?user=Ehasan07&theme=github-dark&hide_border=true&border_radius=10&ring=00A867&fire=00A867&currStreakLabel=00A867" height="165" />
-  </a>
-
-</div>
-
-<br/>
-
-## 🗂 Selected projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[MY-Card](https://mycard.dupno.com/)** ↗ | Digital business-card SaaS with QR, wallet passes, live-preview builder, SSLCommerz payments | Django · PostgreSQL |
-| **[V-Card](https://github.com/Ehasan07/V-card)** | Interactive card layout experiments | HTML · CSS · JS |
-| **[React World Tour](https://github.com/Ehasan07/React-World-Tour)** | React learning project — country data explorer | React |
-| **[Book Management](https://github.com/Ehasan07/Book-management-project)** | Django CRUD with auth and search | Python · Django |
-| **[Tic-Tac-Toe](https://github.com/Ehasan07/tic-tac-toe-game)** | Small game, minimal DOM | Vanilla JS |
-| **[Portfolio](https://github.com/Ehasan07/Protfolio)** | Personal portfolio | JavaScript |
-
-<sub>MY-Card's source is private (production SaaS with payment integrations). The other repos above are all public.</sub>
-
-<br/>
-
-## 🌱 Currently learning
-
-- SSLCommerz Recurring API + IPN signature verification patterns
-- Django performance profiling (`django-debug-toolbar`, `silk`)
-- Deploy automation with systemd timers vs traditional cron
-- Sustainability metrics in SaaS product design
-
-<br/>
-
-## 💬 Get in touch
-
-<div align="center">
-
-  <a href="https://mycard.dupno.com/card/shiplu07/">
-    <img src="https://img.shields.io/badge/Digital%20card-mycard.dupno.com-00A867?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-  <a href="https://dupno.com">
-    <img src="https://img.shields.io/badge/Company-DUPNO-0D1117?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Ehasan07">
-    <img src="https://img.shields.io/badge/GitHub-Ehasan07-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=Ehasan07&label=Profile+views&color=00A867&style=flat-square" alt="profile views" />
-
-  <br/><br/>
-
-  <sub>Ship it. Read it six months later. If it still makes sense, it's done.</sub>
-
-  <br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-
-</div>
+<p align="center"><sub>Ship it. Read it six months later. If it still makes sense, it's done.</sub></p>
